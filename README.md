@@ -2,4 +2,4 @@
 
 Hello!
 
-I am learning programming and pursuing a career in data science.  
+I am learning programming and pursuing a career in software development.  
